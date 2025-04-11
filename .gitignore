@@ -1,0 +1,2 @@
+**/.*     # all dotfiles
+**/.*/    # all dot directories
